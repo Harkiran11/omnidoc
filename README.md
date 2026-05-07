@@ -16,7 +16,7 @@
 
 ## What This Is
 <p align="center">
-  <img src="assets/omnidoc_cover_image.svg" alt="OmniDoc upload interface" width="800" />
+  <img src="assets/omnidoc_cover_image.png" alt="OmniDoc upload interface" width="800" />
 </p>
 
 Most document AI reads text and ignores everything else. OmniDoc doesn't.
