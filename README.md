@@ -53,7 +53,7 @@ Upload any PDF and ask:
 ### Chart Analysis
 
 <p align="center">
-  <img src="assets/chart-description.png" alt="Chart question and answer" width="800" />
+  <img src="assets/chart description.png" alt="Chart question and answer" width="800" />
 </p>
 
 <p align="center"><em>Llama 3.2 Vision extracts insights from complex financial charts with page citations.</em></p>
@@ -63,7 +63,7 @@ Upload any PDF and ask:
 ### Table Extraction
 
 <p align="center">
-  <img src="assets/tables-description.png" alt="Table data extraction" width="800" />
+  <img src="assets/tables description.png" alt="Table data extraction" width="800" />
 </p>
 
 <p align="center"><em>Qwen-VL precisely extracts structured data from tables, even in scanned documents.</em></p>
