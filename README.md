@@ -15,6 +15,9 @@
 ---
 
 ## What This Is
+<p align="center">
+  <img src="assets/omnidoc_cover_image.svg" alt="OmniDoc upload interface" width="800" />
+</p>
 
 Most document AI reads text and ignores everything else. OmniDoc doesn't.
 
@@ -33,6 +36,37 @@ Upload any PDF and ask:
 - *"List all tables and their key data"*
 - *"Which figures support the author's main argument?"*
 - *"Find any financial obligations over $500K in this contract"*
+
+---
+## Demo Screenshots
+
+### Document Upload & Question Interface
+
+<p align="center">
+  <img src="assets/UI.png" alt="OmniDoc upload interface" width="800" />
+</p>
+
+<p align="center"><em>Upload any PDF and ask natural language questions about charts, tables, and figures.</em></p>
+
+---
+
+### Chart Analysis
+
+<p align="center">
+  <img src="assets/chart-description.png" alt="Chart question and answer" width="800" />
+</p>
+
+<p align="center"><em>Llama 3.2 Vision extracts insights from complex financial charts with page citations.</em></p>
+
+---
+
+### Table Extraction
+
+<p align="center">
+  <img src="assets/tables-description.png" alt="Table data extraction" width="800" />
+</p>
+
+<p align="center"><em>Qwen-VL precisely extracts structured data from tables, even in scanned documents.</em></p>
 
 ---
 
